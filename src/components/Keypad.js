@@ -1,4 +1,4 @@
-class Keypad extends React.Component {
+class Keypad extends react.Component {
 
   enteringLog = () => {
     console.log("Entering password...")
