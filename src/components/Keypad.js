@@ -1,7 +1,7 @@
 class Keypad extends React.Component {
 
   render() {
-    return 
+    return
   }
 }
 export default Keypad
