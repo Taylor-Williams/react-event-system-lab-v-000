@@ -1,7 +1,7 @@
 class Keypad extends React.Component {
 
   enteringLog = () => {
-    console.log("entering password...")
+    console.log("Entering password...")
   }
   render() {
     return <input onKeyUp= {enteringLog()} type='password' />
